@@ -7,8 +7,8 @@
 [Conclusion](#conclusion)
 
 ## Quick Access Links
-- [Link to Dataset](insert link here)
-- [Link to Data Analysis Dashboard](insert link here)
+- [Dataset Link Here.](https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4)
+
 
 ## Dataset Description
 The Adidas dataset contains sales data for the company from the year 2015 to 2020. The data is organized by region, sales channel, and retailer. The dataset also contains information on the quantity of products sold and the revenue generated.
